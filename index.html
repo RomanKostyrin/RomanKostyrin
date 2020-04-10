@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="styles.css">
+	<title>RoadTrip</title>
+</head>
+<body>
+	<div class="field">
+		<div class="car"></div>
+		<div class="point point--start"></div>
+		<div class="point point--finish"></div>
+</div>
+<svg class="svg" width="1332" height="850">
+    <symbol id="roads">
+        <path d=""
+          fill="transparent" stroke="black" stroke-width="10" id="bla" rx="50"/>
+    </symbol>
+  <use xlink:href="#roads" x="5" y="7"/>
+</svg>
+	<button type="button" class="startButton">Start randomizing cities</button>	
+	<button type="button" class="start">Finding a good way...</button>
+	<button type="button" class="buildRoads">Build the roads</button>	
+	<div class="display"></div>
+	<button type="button" class="goCar">Go car!</button>
+	
+	<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+	<script src="scripts.js"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+</body>
+</html>
+
