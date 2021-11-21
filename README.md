@@ -1,12 +1,14 @@
-# Roman Kostyrin
-
 ## Front-end developer
 
 ### About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKostyrin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Latest projects
+
+### [![English](https://img.shields.io/badge/Momentum-App-0000FF?style=social&logo=monkeytie&logoColor=0000FF)](https://mymomentum-app.netlify.app/)
+
+### [![English](https://img.shields.io/badge/ArtQuiz-SPA-0000FF?style=social&logo=Datadog&logoColor=0000FF)](https://artquiz.netlify.app/)
 
 ### Language
 
