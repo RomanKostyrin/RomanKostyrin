@@ -2,15 +2,27 @@
 
 ### About me
 
+#### 2019 - Junior Front-end Developer
+
+#### 2020 - IT Technitian
+
+#### 2021 - Mentor at JS School
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKostyrin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Codewars
 
 [![Profile badge](https://www.codewars.com/users/RomanKostyrin/badges/large)](https://www.codewars.com/users/RomanKostyrin)
 
 ### Latest projects
 
-### [![English](https://img.shields.io/badge/Momentum-App-0000FF?style=social&logo=monkeytie&logoColor=0000FF)](https://mymomentum-app.netlify.app/)
+### [![LiveDouble](https://img.shields.io/badge/LiveDouble-EthereumRoulette-0000FF?style=social&logo=Ethereum&logoColor=D3AF37)](https://skins2day.goldapp.ru/)
 
-### [![English](https://img.shields.io/badge/ArtQuiz-SPA-0000FF?style=social&logo=Datadog&logoColor=0000FF)](https://artquiz.netlify.app/)
+### [![Skins2Day](https://img.shields.io/badge/Skins2Day-Landing-0000FF?style=social&logo=Counter-Strike&logoColor=000000)](https://skins2day.goldapp.ru/)
+
+### [![Momentum](https://img.shields.io/badge/Momentum-App-0000FF?style=social&logo=monkeytie&logoColor=FF142F)](https://mymomentum-app.netlify.app/)
+
+### [![ArtQuiz](https://img.shields.io/badge/ArtQuiz-SPA-0000FF?style=social&logo=Datadog&logoColor=0000FF)](https://artquiz.netlify.app/)
 
 ### Language
 
