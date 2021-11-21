@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKostyrin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Profile badge](https://www.codewars.com/users/RomanKostyrin/badges/large)](https://www.codewars.com/users/RomanKostyrin)
+
 ### Latest projects
 
 ### [![English](https://img.shields.io/badge/Momentum-App-0000FF?style=social&logo=monkeytie&logoColor=0000FF)](https://mymomentum-app.netlify.app/)
