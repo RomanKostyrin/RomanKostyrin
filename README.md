@@ -36,4 +36,4 @@
 
 ### Stats
 
-[![Roman Kostyrin stats](https://github-readme-stats.vercel.app/api?username=romankostyrin&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Roman Kostyrin stats](https://github-readme-stats.vercel.app/api?username=romankostyrin&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/romankostyrin/github-readme-stats)
