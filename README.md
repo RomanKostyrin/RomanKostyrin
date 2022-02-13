@@ -8,6 +8,8 @@
 
 #### 2021 - Mentor at JS School
 
+#### 2022 Junior Software Engineer at EPAM Anywhere
+
 ### Codewars
 
 [![Profile badge](https://www.codewars.com/users/RomanKostyrin/badges/large)](https://www.codewars.com/users/RomanKostyrin)
