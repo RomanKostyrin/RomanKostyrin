@@ -10,6 +10,8 @@
 
 #### 2022 Junior Software Engineer at EPAM Anywhere
 
+#### 2023 Software Engineer at EPAM
+
 ### Codewars
 
 [![Profile badge](https://www.codewars.com/users/RomanKostyrin/badges/large)](https://www.codewars.com/users/RomanKostyrin)
