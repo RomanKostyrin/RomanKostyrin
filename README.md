@@ -29,10 +29,6 @@
 ### [![ArtQuiz](https://img.shields.io/badge/ArtQuiz-SPA-0000FF?style=social&logo=Datadog&logoColor=0000FF)](https://artquiz.netlify.app/)
 
 
-### Language
-
-![English](https://img.shields.io/badge/English-B1-0000FF?style=social&logo=KakaoTalk&logoColor=0000FF)
-
 ### Contacts
 
 [![LinkedIn](https://img.shields.io/badge/Telegram-Enpozito-0000FF?style=social&logo=Telegram)](https://t.me/Enpozito)
