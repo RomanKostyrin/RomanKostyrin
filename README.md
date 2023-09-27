@@ -8,9 +8,9 @@
 
 #### 2021 - Mentor at JS School
 
-#### 2022 Junior Software Engineer at EPAM Anywhere
+#### 2022 Software Engineer at EPAM Anywhere
 
-#### 2023 Software Engineer at EPAM
+#### 2023 Software Engineer at GoldApp
 
 ### Codewars
 
