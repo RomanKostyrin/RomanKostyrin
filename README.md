@@ -2,15 +2,11 @@
 
 ### About me
 
-#### 2019 - Junior Front-end Developer
-
-#### 2020 - IT Technitian
-
-#### 2021 - Mentor at JS School
-
-#### 2022 Software Engineer at EPAM Anywhere
-
 #### 2023 Software Engineer at GoldApp
+#### 2022 Software Engineer at EPAM Anywhere
+#### 2021 - Mentor at JS School
+#### 2020 - IT Technitian
+#### 2019 - Junior Front-end Developer
 
 ### Codewars
 
